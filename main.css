@@ -1,3 +1,13 @@
 body{
     background-color: aquamarine;
 }
+
+
+ul li{
+    list-style: none;
+    padding: 10px;
+}
+
+ol li{
+    list-style-type: circle;
+}
